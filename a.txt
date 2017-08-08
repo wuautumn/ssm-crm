@@ -1,7 +1,0 @@
-我是一只小小鸟
-风起云涌
-<<<<<<< HEAD
-aaaaaaaaaaaaaa
-=======
-bbbbbbbbbbbbbb
->>>>>>> 1d01c5e3114c35d8bd5d8b87b94512918d44adca
