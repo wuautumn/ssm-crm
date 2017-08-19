@@ -12,6 +12,7 @@ import cn.itcast.cxf.domain.User;
 public class UserServiceImpl implements IUserService {
 
 	public String sayHello(String name) {
+		System.out.println(123);
 		return "Hello"+name;
 	}
 
